@@ -1,0 +1,23 @@
+body{
+    background: #BDBDBD;
+    margin-left: 100px;
+    margin-right: 200 px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    margin-top: 75px;
+}
+
+h1{
+    color: #8A2908;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+img{
+    margin-bottom: 20px;
+}
